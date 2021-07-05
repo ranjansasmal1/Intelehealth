@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ranjan Code Test</string>
+    <string name="github_repositories">Github Repositories</string>
+    <string name="description">Description</string>
+    <string name="fullname">Full Name :</string>
+    <string name="watcher">"Watchers : "</string>
+    <string name="fork">"Forks : "</string>
+    <string name="language">"Language : "</string>
+</resources>
